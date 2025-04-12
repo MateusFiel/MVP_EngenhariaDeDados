@@ -29,6 +29,8 @@ Em repositório publico.
   - `dim_tempo`
   - `fato_vendas`
 - Aplicação do modelo estrela (Star Schema)
+  ![image](https://github.com/user-attachments/assets/5fd2c2c0-2ba5-49bd-b2af-b39a0ddbf485)
+
 
 #### 4. **Análises Realizadas**
 - Top produtos por volume e faturamento
