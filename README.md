@@ -15,7 +15,7 @@ Analisar o desempenho de vendas de uma rede de supermercados, identificando padr
 ### Pipeline e Etapas
 
 #### 1. **Coleta de Dados**
-Em repositório publico.
+Em repositório publico. Link: https://www.dropbox.com/scl/fi/uswt1wqw2si0t6m8qsbr1/base_vendas_2024.csv?rlkey=pp7eopxvpnp025tjkwph2qw2j&st=vg5iw6fc&dl=0
 
 #### 2. **Ingestão e Tratamento**
 - Upload de CSV no Databricks
